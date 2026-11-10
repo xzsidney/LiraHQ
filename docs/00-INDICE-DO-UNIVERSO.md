@@ -8,9 +8,10 @@ Este diretório (`docs/`) funciona como a **Bíblia Narrativa e de Design (World
 
 | Arquivo | Descrição | Status |
 | :--- | :--- | :--- |
-| **[01-LORE-E-ORIGEM.md](./01-LORE-E-ORIGEM.md)** | O Evento Cósmico (Big Bang + Sol), a mudança nas leis da natureza, os animais mutantes e o cenário principal em **São Paulo Capital**. | 🟢 Em construção |
-| **[02-SISTEMA-DE-PODERES.md](./02-SISTEMA-DE-PODERES.md)** | A fonte de energia (substituta da "mana"), a arte de manipular a Física/Química/Biologia (substituta da "magia") e os **5 Domínios**. | 🟢 Base definida |
-| **[03-ROTEIROS-E-HQS.md](./03-ROTEIROS-E-HQS.md)** | Planejamento das edições de HQ, fichas de protagonistas, antagonistas, facções e decisões pendentes da história. | 🟡 Próxima etapa |
+| **[01-LORE-E-ORIGEM.md](./01-LORE-E-ORIGEM.md)** | O Evento Cósmico (Big Bang + Sol), a mudança nas leis da natureza, os animais mutantes e o cenário principal em **São Paulo Capital**. | 🟢 Base definida |
+| **[02-SISTEMA-DE-PODERES.md](./02-SISTEMA-DE-PODERES.md)** | A fonte de energia (substituta da "mana"), a arte de manipular a Física/Química/Biologia e os **5 Domínios** (incluindo Tatuagens Vivas). | 🟢 Base definida |
+| **[03-ROTEIROS-E-HQS.md](./03-ROTEIROS-E-HQS.md)** | Planejamento da Trilogia da Fase 1, abertura narrativa com YouTuber e fichas dos 3 protagonistas. | 🟢 Estruturado |
+| **[04-ROTEIRO-HQ-01.md](./04-ROTEIRO-HQ-01.md)** | **Roteiro Técnico da HQ #1 (A Fera de Nanquim):** Descrição quadro a quadro, arte, diálogos e guia para o desenhista. | 🟡 Em escrita ativa |
 
 ---
 
