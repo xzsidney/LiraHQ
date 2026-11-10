@@ -39,6 +39,7 @@ Focado em movimento, vetores, gravidade, atrito, massa e ondas mecânicas (som/i
 - **Exemplos de Habilidades:**
   - Absorver a energia cinética de tiros ou pancadas e devolver em um único soco devastador.
   - Reduzir ou aumentar a gravidade de objetos/pessoas (permitindo saltar prédios ou "planar").
+  - Desviar a trajetória balística de projéteis e fragmentos ao manipular campos vetoriais ao redor do corpo.
   - Eliminar o atrito do chão para deslizar em alta velocidade ou caminhar pelas paredes de vidro dos prédios da Paulista.
   - Criar ondas de choque sonoras ou vibracionais que estilhaçam concreto.
 
@@ -46,6 +47,7 @@ Focado em movimento, vetores, gravidade, atrito, massa e ondas mecânicas (som/i
 Focado na tabela periódica, reações químicas, ligas metálicas, gases e líquidos.
 - **Exemplos de Habilidades:**
   - Alterar o estado físico ou a composição do que toca (transformar concreto em areia, endurecer o carbono do corpo como grafeno/diamante).
+  - **Transmutação de Pigmentos (Tatuagens Vivas):** Saturar a tinta mineral/carbono injetada na derme com Singularidade para que o desenho se descole da pele, ganhe massa tridimensional e aja no mundo físico como um construto vivo (a pele do usuário fica limpa enquanto a criatura de nanquim estiver em ação).
   - Oxidação acelerada (enferrujar e destruir armas, grades ou veículos em segundos).
   - Manipular gases atmosféricos (criar vácuo localizado, condensar fumaça/neblina tóxica ou inflamável).
 
